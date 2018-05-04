@@ -9,3 +9,4 @@
 ## HTML and CSS HW
 
 + Task 1: https://ihormedvid.github.io/PLLUG-HW/lesson-2/task-1.html
++ Task 2: https://ihormedvid.github.io/PLLUG-HW/lesson-2/task-2.html
