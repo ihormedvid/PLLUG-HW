@@ -1,0 +1,9 @@
+.grid {
+  display: grid;
+  grid-template-columns: 300px 300px 300px;
+}
+
+.grid div {
+  background-color: darkorange;
+  border: 1px solid black;
+}
