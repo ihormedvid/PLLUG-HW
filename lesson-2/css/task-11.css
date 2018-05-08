@@ -1,0 +1,8 @@
+.task {
+  width: 250px;
+  height: 100px;
+  background-color: aqua;
+  border-radius: 20px;
+  border: 2px dashed rebeccapurple;
+  box-shadow: 0 0 0 4px #020b11, 2px 1px 6px 4px rgba(184, 184, 21, 0.5);
+}

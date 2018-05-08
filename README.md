@@ -18,4 +18,5 @@
 + Task 8: https://ihormedvid.github.io/PLLUG-HW/lesson-2/html/task-8.html
 + Task 9: https://ihormedvid.github.io/PLLUG-HW/lesson-2/html/task-9.html
 + Task 10: https://ihormedvid.github.io/PLLUG-HW/lesson-2/html/task-10.html
++ Task 11: https://ihormedvid.github.io/PLLUG-HW/lesson-2/html/task-11.html
 
