@@ -9,4 +9,6 @@
 ## HTML and CSS HW
 
 https://ihormedvid.github.io/PLLUG-HW/lesson-2/index.html
+https://ihormedvid.github.io/PLLUG-HW/lesson-2/index2.html
+https://ihormedvid.github.io/PLLUG-HW/lesson-2/index3.html
 
