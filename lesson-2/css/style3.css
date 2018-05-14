@@ -1,0 +1,19 @@
+.task29 a {
+  color:red;
+}
+
+.task29 a:hover {
+  color:green;
+}
+
+.task29 a:active {
+  color: black
+}
+
+span + p {
+  background-color: brown;
+}
+
+input[type="text"] {
+  color:red;
+}

@@ -8,15 +8,5 @@
 ****
 ## HTML and CSS HW
 
-+ Task 1: https://ihormedvid.github.io/PLLUG-HW/lesson-2/html/task-1.html
-+ Task 2: https://ihormedvid.github.io/PLLUG-HW/lesson-2/html/task-2.html
-+ Task 3: https://ihormedvid.github.io/PLLUG-HW/lesson-2/html/task-3.html
-+ Task 4: https://ihormedvid.github.io/PLLUG-HW/lesson-2/html/task-4.html
-+ Task 5: https://ihormedvid.github.io/PLLUG-HW/lesson-2/html/task-5.html
-+ Task 6: https://ihormedvid.github.io/PLLUG-HW/lesson-2/html/task-6.html
-+ Task 7: https://ihormedvid.github.io/PLLUG-HW/lesson-2/html/task-7.html
-+ Task 8: https://ihormedvid.github.io/PLLUG-HW/lesson-2/html/task-8.html
-+ Task 9: https://ihormedvid.github.io/PLLUG-HW/lesson-2/html/task-9.html
-+ Task 10: https://ihormedvid.github.io/PLLUG-HW/lesson-2/html/task-10.html
-+ Task 11: https://ihormedvid.github.io/PLLUG-HW/lesson-2/html/task-11.html
+https://ihormedvid.github.io/PLLUG-HW/lesson-2/index.html
 

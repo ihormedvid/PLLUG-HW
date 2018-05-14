@@ -1,0 +1,157 @@
+
+/* task18 */
+
+.task18 {
+  width: calc(500px - 100px);
+
+	background-color:#ec8007;
+	color:#fff;
+	text-align:center;
+	padding:20px;
+	margin: 0 auto;;
+}
+
+/* task-19 */
+
+.task19 p {
+  width: 300px;
+}
+
+.task19 p::first-letter {
+  background-color: cyan;
+}
+
+.task19 p::first-line {
+  color: darkorange;
+}
+
+.task19  :first-child {
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  background-color: red;
+}
+
+.task19  :last-child {
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  background-color: red;
+}
+
+/* task-21 */
+.task21 div {
+  width: 50px;
+  height: 50px;
+  background: rebeccapurple;
+  margin: 15px;
+}
+
+.task21 div:empty {
+  background-color: aqua;
+}
+
+/* task-22 */
+
+.task22 p[data-name="w3r"] {
+  color: sienna;
+}
+
+/* task-25 */
+
+.task25 {
+  width: 850px;
+  height: 500px;
+  justify-content: space-around;
+}
+
+.task25 .cl1 {
+  margin: 10px;
+  width: 150px;
+  height: 50px;
+  background-color: red;
+  
+}
+
+.task25 .cl2 {
+  margin: 10px;
+  width: 150px;
+  height: 50px;
+  background-color: red;
+  padding: 5px;
+  border: 5px solid black;
+}
+
+.task25 .cl3 {
+  margin: 10px;
+  width: 150px;
+  height: 50px;
+  background-color: red;
+  padding: 10px;
+}
+
+/* task-26 */
+
+.task26 {
+  display: flex;
+  justify-content: space-around;}
+
+.task26 .linear {
+  width: 200px;
+  height: 200px;
+  border: 1px solid black;
+  background: linear-gradient(to top, #fefcea, #f1da36);
+}
+
+.task26 .radial {
+  width: 200px;
+  height: 200px;
+  border: 1px solid black;
+  background: radial-gradient(#55ddff, #0081b5);
+}
+
+.task26 .repeatingl {
+  width: 200px;
+  height: 200px;
+  border: 1px solid black;
+  background:repeating-linear-gradient(-45deg, #4b6c9c, #5ac4ed 5px, #fff 5px, #fff 10px);
+}
+
+.task26 .repatingr {
+  width: 200px;
+  height: 200px;
+  border: 1px solid black;  
+  background:repeating-radial-gradient(#4b6c9c, #5ac4ed 5px, #fff 5px, #fff 10px);
+}
+
+/* task-27 */
+
+.task27  p {
+  text-align:center;
+	padding:10px;
+	width:250px;
+	margin: 0 auto;
+
+	border:50px solid transparent;
+	border-image:url(https://www.w3resource.com/html-css-exercise/border.png) 50 50 round;
+}
+
+/* task-28 */
+
+.task28 {
+  height: 200px;
+  width: 200px;
+}
+
+.task28 p {
+  columns: 2;
+}
+
+/* task-29 */
+
+task29 a {
+  color:red;
+  margin: 100xp;
+  display: flex;
+  justify-content: space-around;
+}
+
+task29 a:hover {
+  color:green;
+}
